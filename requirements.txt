@@ -1,0 +1,9 @@
+numpy
+
+# Optional real dependencies:
+# torch
+# transformers
+# sklearn
+# neo4j
+# stanza
+# flair
